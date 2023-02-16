@@ -1,0 +1,24 @@
+.shirt-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.home-container {
+    margin-top: 70px;
+}
+
+.cart-container {
+
+    background-color: rgb(183, 222, 240);
+    border-radius: 10px;
+}
+
+.single-cart {
+    position: sticky;
+    top: 0;
+}
+
+.shirt {
+    height: 300px;
+}

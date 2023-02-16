@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.footer {}
+
+.footer p {
+    margin-bottom: 0;
+    padding: 18px;
+}
